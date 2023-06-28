@@ -1,0 +1,1 @@
+import { postData } from './view/Pais/regpais.js';

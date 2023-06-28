@@ -1,0 +1,17 @@
+{
+    "name": "apolm01-063/prueba-php-pdo-mysql",
+    "description": "prueba: app con php mysql and pdo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "angel sierra"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "./config",
+            "Models\\": "./models"
+        }
+    }
+}
